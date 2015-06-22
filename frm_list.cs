@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿HOLA DAVID
+=======
+﻿HOLA
+Adios
+>>>>>>> origin/master
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
